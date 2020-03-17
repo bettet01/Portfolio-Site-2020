@@ -14,8 +14,13 @@ const Contact = () => {
                     alt='avatar'
                     style={{height: '300px'}}
                     />
-                    <p style={{fontSize: '20px', width: '60%', margin: 'auto', paddingTop: '1em'}}>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                    <p style={{fontSize: '20px', width: '60%', margin: 'auto', paddingTop: '1em', lineHeight: "27px"}}>
+                    <p>Thanks for taking the time to learn about me.</p>
+                    <div>I'm currently employed with Genesis10 under their Dev10 program. 
+                        If you're interested in working with me. I would recommend reaching out to the Minneapolis
+                        branch. I'm not involved directly involved with the recruitment process but I have a good feeling the Dev10 
+                        team would be willing to chat! 
+                    </div>
                     </p>
                 </Cell>
                 <Cell col={6}>

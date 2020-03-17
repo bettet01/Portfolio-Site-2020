@@ -16,7 +16,19 @@ const About = () => {
                     style={{height: '300px'}}
                     />
                     <h4>About Me</h4>
-                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p> Welcome to my About Me page!</p>
+                    <p> I graduated from Luther College in Decorah Iowa in May of 2016.
+                    During my time at Luther, I became more passionate about education and discovered talents I didn’t think I had! This led me to start taking computer science classes,
+                     and to eventually dedicate myself to coding and continuous learning. And a smile as I contribute to solving problems!
+                    </p>
+                    <p>
+                    After college I was employed in banking as an account processor where I developed my coding talents, taking on odds projects until I was asked to help the automation team,
+                     in which I was coached in agile and learned the Automation Anywhere framework.
+                    </p>
+                    <p>
+                    My main skill that I can bring to any job is my interest and ability to learn! This has taken 
+                    me everywhere from learning music to studying computer programming concepts, operating systems, and languages. 
+                    </p>
                 </Cell>
                 <Cell col={6}>
                     <h2>Fun Facts</h2>
@@ -24,27 +36,27 @@ const About = () => {
                     <div className='aboutme-list'>
                         <List>
                             <ListItem>
-                                <ListItemContent style={{ paddingBottom: '6%', fontSize: '30px', fontFamily: 'Anton'}}>
+                                <ListItemContent style={{ paddingBottom: '6%', fontSize: '15px', fontFamily: 'Anton'}}>
                                     <i className='fa fa-circle' aria-hidden='true' />
-                                    Test
+                                    In high school, I was in 3 different bands that ranged from pop punk to country music.
                                 </ListItemContent>
                             </ListItem>
                             <ListItem>
-                                <ListItemContent style={{ paddingBottom: '6%', fontSize: '30px', fontFamily: 'Anton'}}>
+                                <ListItemContent style={{ paddingBottom: '6%', fontSize: '15px', fontFamily: 'Anton'}}>
                                     <i className='fa fa-circle' aria-hidden='true' />
-                                    641-903-9235
+                                    I learned how to hypnotize people as a way to meet people during high school and college.
                                 </ListItemContent>
                             </ListItem>
                             <ListItem>
-                                <ListItemContent style={{ paddingBottom: '6%', fontSize: '30px', fontFamily: 'Anton'}}>
+                                <ListItemContent style={{ paddingBottom: '6%', fontSize: '15px', fontFamily: 'Anton'}}>
                                     <i className='fa fa-circle' aria-hidden='true' />
-                                    641-903-9235
+                                    I play quite a few instruments with my favorites being Guitar, Piano, and Drum Kit.
                                 </ListItemContent>
                             </ListItem>
                             <ListItem>
-                                <ListItemContent style={{ paddingBottom: '6%', fontSize: '30px', fontFamily: 'Anton'}}>
+                                <ListItemContent style={{ paddingBottom: '6%', fontSize: '15px', fontFamily: 'Anton'}}>
                                     <i className='fa fa-circle' aria-hidden='true' />
-                                    641-903-9235
+                                    I've recently taken up Tennis as a hobby. I am not good.
                                 </ListItemContent>
                             </ListItem>
                         </List>

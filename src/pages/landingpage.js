@@ -15,20 +15,20 @@ const LandingPage = () => {
                     <div className='banner-text'>
                         <h1 >Robust Developer and Data Anaylst</h1>
                     <hr />
-                        <p> HTML/CSS | Javascript | React | NodeJS | Express | MongoDB | MySQL | Python </p>
+                        <p> Java | Spring | React | NodeJS | Express | MongoDB | MySQL | Python </p>
 
                     <div className='social-links'>
-                        <a target='_blank' href="http://www.google.com" rel='noopener noreferrer'>
+                        <a target='_blank' href="https://www.linkedin.com/in/ethan-bettenga/" rel='noopener noreferrer'>
                             <i className='fa fa-linkedin-square' aria-hidden='true' />
                         </a>
-                        <a target='_blank' href="http://www.google.com" rel='noopener noreferrer'>
+                        <a target='_blank' href="https://github.com/bettet01" rel='noopener noreferrer'>
                             <i className='fa fa-github-square' aria-hidden='true' />
                         </a>
-                        <a target='_blank' href="http://www.google.com" rel='noopener noreferrer'>
-                            <i className='fa fa-free-code-camp' aria-hidden='true' />
+                        <a target='_blank' href="https://www.facebook.com/ebettenga" rel='noopener noreferrer'>
+                            <i className='fa fa-facebook-square' aria-hidden='true' />
                         </a>
-                        <a target='_blank' href="http://www.google.com" rel='noopener noreferrer'>
-                            <i className='fa fa-youtube-square' aria-hidden='true' />
+                        <a target='_blank' href="https://www.knode.app/" rel='noopener noreferrer'>
+                            <i className='fa fa-line-chart' aria-hidden='true' />
                         </a>
                     </div>
                     </div>

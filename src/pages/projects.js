@@ -58,7 +58,7 @@ const Projects = () => {
         else if (activeTab === 2){
             return(
                 <div>
-                    This is Unity
+                    This is Java
                 </div>
             )
         }
@@ -70,7 +70,7 @@ const Projects = () => {
             <Tabs activetab={activeTab} onChange={tabId => changeActiveTab(tabId)} ripple >
                 <Tab>React</Tab>
                 <Tab>Python</Tab>
-                <Tab>Unity</Tab>
+                <Tab>Java</Tab> 
             </Tabs>
                 <Grid>
                     <Cell col={12} >

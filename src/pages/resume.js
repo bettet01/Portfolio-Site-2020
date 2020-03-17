@@ -41,7 +41,7 @@ const Resume = () => {
             <p>Don't like what you see? Make sure to check out my about me page to get a litle more detail about what I can do!</p>
             <p>Wanna contact me? Download my resume below and head to my contact page. I respond best to calls, texts, and emails.</p>
             <div className='button-box'>
-            <Link className='button' to='https://uploads.codesandbox.io/uploads/user/c51536e6-7714-402b-bac3-0c0fd95cc65a/SZEy-Resume_2019_1.0.pdf' target='_blank' download>
+            <Link className='button' to={process.env.PUBLIC_URL + '/Resume_2019_1.0.pdf'} target='_blank' download>
                 Download
             </Link>
             </div>
