@@ -18,7 +18,7 @@ const Contact = () => {
                     <p>Thanks for taking the time to learn about me.</p>
                     <div>I'm currently employed with Genesis10 under their Dev10 program. 
                         If you're interested in working with me. I would recommend reaching out to the Minneapolis
-                        branch. I'm not involved directly involved with the recruitment process but I have a good feeling the Dev10 
+                        branch. I'm not directly involved with the recruitment process but I have a good feeling the Dev10 
                         team would be willing to chat! 
                     </div>
                     </p>

@@ -150,11 +150,11 @@ const Projects = () => {
               "url(https://images.idgesg.net/images/article/2019/05/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.jpg) center / cover"
           }}
         >
-          Flooring Sales Backend
+          Flooring Sales App
         </CardTitle>
         <CardText>
           This project was a fun cumulative of some java skills I've picked up courtesy of the Software Guild.
-          This project implements the following features and coding practices: MVC, Spring, Junit, Audit Writing, File Writing,
+          This project implements the following features and coding practices: Swing, MVC, Spring, Junit, Audit Writing, File Writing,
           Error Handling, User Validation, Java 11 Streams, Agile Creation, CRUD Operations, and much More! 
         </CardText>
         <CardActions border>
